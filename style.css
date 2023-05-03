@@ -1,0 +1,188 @@
+body {
+    width: 1512px;
+    height: 982px;    
+    background: #0F0F0F;
+    
+}
+
+#logo {
+    position: absolute;
+    width: 165px;
+    height: 29px;
+    left: 673px;
+    top: 25px;
+}
+
+a {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#menu {
+    width: 169px;
+    height: 74px;
+    margin-left: 708px;
+    margin-right: 705px;
+    margin-top: 60px;
+}
+
+#assinar {
+    position: absolute;
+    width: 169px;
+    height: 74px;
+    left: 705px;
+    top: 97px;
+}
+
+h1 {
+    position: absolute;
+    position: absolute;
+    width: 350px;
+    height: 112px;
+    left: 680px;
+    top: 110px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#p1 {
+    position: absolute;
+    width: 473px;
+    height: 74px;
+    left: 555px;
+    top: 220px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+#email {
+    position: absolute;
+    width: 379px;
+    height: 74px;
+    left: 473px;
+    top: 345px;
+
+}
+
+.client-input {
+    width: 566px;
+    height: 45px;
+    background: #7F7F7F;
+    border-radius: 25px;
+}
+
+#email-input {
+    position: absolute;
+    left: 462px;
+    top: 400px;
+}
+
+#password-input {
+    position: absolute;
+    left: 462px;
+    top: 540px;
+
+}
+
+form {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+#senha {
+    position: absolute;
+    width: 379px;
+    height: 74px;
+    left: 473px;
+    top: 479px;
+
+}
+
+#entrar-button {
+    box-sizing: border-box;
+    position: absolute;
+    width: 214px;
+    height: 55px;
+    left: 649px;
+    top: 650px;
+    background: #8C77E0;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    cursor: pointer;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 40px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#p2 {
+    position: absolute;
+    width: 587px;
+    height: 74px;
+    left: 462px;
+    top: 732px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#provedor-button {
+    box-sizing: border-box;
+    position: absolute;
+    width: 404.5px;
+    height: 55px;
+    left: 554px;
+    top: 870px;
+    background: #8C77E0;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 40px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
